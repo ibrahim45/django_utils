@@ -1,4 +1,6 @@
- and decodes an unique invoice id, which can use characters
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+""" Generates and decodes an unique invoice id, which can use characters
     to shorten its length.
 
      Author: Will Hardy
